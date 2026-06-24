@@ -1,5 +1,5 @@
 # «Asphalt Legends Unite» Bot for Windows  
-📑[`Documentation`](http://monopolist.temp.swtest.ru/)  💾[`Last version 2026b`](https://boosty.to/a9bot/posts/a61311e7-d6e6-4854-93ac-7f7fbe9176c1)
+📑[`Documentation`](http://monopolist.temp.swtest.ru/)  💾[`Last version 2026c`](https://boosty.to/a9bot/posts/a61311e7-d6e6-4854-93ac-7f7fbe9176c1)
 
 🚥🏎️ DM me 💬 on boosty to join our Discord server🏁  
 
@@ -20,5 +20,4 @@ The bot can temporarily reach the legend with a good garage.
 ___
 **Donation**  
 If you think my bot is helpful for you, you can donate me, your donation is the best encouragement to me.  
-###### <a href = "https://payeer.com/" target = "_blank">Payeer account: P1073238462</a>  
 ###### <a href = "http://boosty.to/a9bot/" target = "_blank">Boosty donation page</a>  
